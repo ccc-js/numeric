@@ -1,0 +1,27 @@
+{
+  "name": "numeric2",
+  "version": "1.0.0",
+  "description": "The 2th Version of numeric.js",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha",
+    "build": "browserify ./export.js -o ./dist/numeric2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccc-js/numeric2.git"
+  },
+  "keywords": [
+    "numeric",
+    "sci"
+  ],
+  "author": "ccckmit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ccc-js/numeric2/issues"
+  },
+  "homepage": "https://github.com/ccc-js/numeric2#readme"
+}
