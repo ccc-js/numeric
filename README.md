@@ -1,6 +1,9 @@
 Numeric Javascript by Sébastien Loisel
 ======================================
 
+Just a test !
+
+
 Numeric Javascript is a javascript library for doing numerical
 analysis in the browser. Because Numeric Javascript uses only the
 javascript programming language, it works in many browsers and does
